@@ -4,7 +4,6 @@ import { useReactToPrint } from "react-to-print";
 import React, { useRef } from "react";
 
 import { StyledEngineProvider } from "@mui/material/styles";
-import Demo from "./component/Demo";
 
 function App() {
   const componentRef = useRef();

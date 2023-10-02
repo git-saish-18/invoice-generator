@@ -151,6 +151,7 @@ h1.headline {
   color: white;
   font-family: emoji;
   opacity: 0.8;
+  filter: drop-shadow(10px 3px 3px black);
 }
 
 .BoxComp.MuiBox-root.css-m6zke4 {
